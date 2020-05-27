@@ -1,0 +1,1 @@
+This app implements three classic graph algorithms – Dijkstra's algorithm, A* search, and Kruskal's algorithm – to build and navigate different terrains.
